@@ -1,0 +1,51 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    background-color: rgb(254, 189, 69);
+}
+
+.trabalho {
+
+    height: 270px;
+    width: 200px;
+    margin-left: 50px
+}
+
+.projeto {
+
+    height: 230px;
+    width: 380px;
+
+}
+
+.button {
+    background-color: rgb(255, 244, 117);
+    padding: 15px;
+    border-color: rgb(253, 148, 37);
+    border-width: 10px;
+    width: 250px;
+}
+
+
+.paragraph {
+    margin-left: 50px
+}
+
+ul {
+    list-style-type: disc;
+}
+
+
+table {
+    border-spacing: 60px;
+}
+
+
+.portfoliotable {
+    border-spacing: 10px;
+}
+
+.title {
+
+    color: rgb(9, 9, 98);
+}
